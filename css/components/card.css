@@ -1,0 +1,19 @@
+.card { 
+padding: 30px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+box-shadow: 20px 0px 15px rgba(rgb(181, 87, 87), rgb(78, 149, 78), rgb(37, 37, 119), 0.2);
+border-radius: 12px;
+}
+
+.card img{ 
+    width: 200px;
+    border-radius: 6px;
+}
+
+.card h3{ 
+    flex-grow: 2;
+    padding-left: 20px;
+    font-size: 30px;
+}
